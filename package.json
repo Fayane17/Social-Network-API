@@ -1,0 +1,25 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "MongoDB is a popular choice for many social networks due to its speed with large amounts of data and flexibility with unstructured data",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fayane17/Social-Network-API.git"
+  },
+  "author": "Fayane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fayane17/Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/Fayane17/Social-Network-API#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "mongoose": "^7.0.3"
+  }
+}
